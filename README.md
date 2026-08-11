@@ -13,6 +13,7 @@ My leetcode DSA solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arjunmakkar/Leetcode/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/Arjunmakkar/Leetcode/tree/master/0202-happy-number) |
 ## Linked List
 |  |
 | ------- |
@@ -21,6 +22,7 @@ My leetcode DSA solutions
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Arjunmakkar/Leetcode/tree/master/0061-rotate-list) |
+| [0202-happy-number](https://github.com/Arjunmakkar/Leetcode/tree/master/0202-happy-number) |
 ## Stack
 |  |
 | ------- |
@@ -42,6 +44,7 @@ My leetcode DSA solutions
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arjunmakkar/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/Arjunmakkar/Leetcode/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -54,4 +57,8 @@ My leetcode DSA solutions
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Arjunmakkar/Leetcode/tree/master/0456-132-pattern) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Arjunmakkar/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
