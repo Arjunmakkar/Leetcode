@@ -8,6 +8,7 @@ My leetcode DSA solutions
 | ------- |
 | [0001-two-sum](https://github.com/Arjunmakkar/Leetcode/tree/master/0001-two-sum) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arjunmakkar/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0456-132-pattern](https://github.com/Arjunmakkar/Leetcode/tree/master/0456-132-pattern) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ My leetcode DSA solutions
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arjunmakkar/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Arjunmakkar/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Arjunmakkar/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0456-132-pattern](https://github.com/Arjunmakkar/Leetcode/tree/master/0456-132-pattern) |
 ## Design
 |  |
 | ------- |
@@ -40,4 +42,16 @@ My leetcode DSA solutions
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arjunmakkar/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+## Binary Search
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Arjunmakkar/Leetcode/tree/master/0456-132-pattern) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Arjunmakkar/Leetcode/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Arjunmakkar/Leetcode/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
