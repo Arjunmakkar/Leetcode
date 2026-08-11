@@ -7,6 +7,7 @@ My leetcode DSA solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arjunmakkar/Leetcode/tree/master/0001-two-sum) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Arjunmakkar/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@ My leetcode DSA solutions
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Arjunmakkar/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Arjunmakkar/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Arjunmakkar/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Design
@@ -34,4 +36,8 @@ My leetcode DSA solutions
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Arjunmakkar/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Arjunmakkar/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Arjunmakkar/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
