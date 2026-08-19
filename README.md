@@ -24,6 +24,7 @@ My leetcode DSA solutions
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Arjunmakkar/Leetcode/tree/master/0061-rotate-list) |
+| [0092-reverse-linked-list-ii](https://github.com/Arjunmakkar/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 ## Two Pointers
 |  |
 | ------- |
