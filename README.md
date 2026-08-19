@@ -9,6 +9,7 @@ My leetcode DSA solutions
 | [0001-two-sum](https://github.com/Arjunmakkar/Leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Arjunmakkar/Leetcode/tree/master/0035-search-insert-position) |
 | [0055-jump-game](https://github.com/Arjunmakkar/Leetcode/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/Arjunmakkar/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Arjunmakkar/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arjunmakkar/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0456-132-pattern](https://github.com/Arjunmakkar/Leetcode/tree/master/0456-132-pattern) |
@@ -88,4 +89,12 @@ My leetcode DSA solutions
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Arjunmakkar/Leetcode/tree/master/0055-jump-game) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/Arjunmakkar/Leetcode/tree/master/0059-spiral-matrix-ii) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/Arjunmakkar/Leetcode/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
