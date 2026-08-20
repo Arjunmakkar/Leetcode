@@ -12,6 +12,7 @@ My leetcode DSA solutions
 | [0059-spiral-matrix-ii](https://github.com/Arjunmakkar/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Arjunmakkar/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arjunmakkar/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0435-non-overlapping-intervals](https://github.com/Arjunmakkar/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0456-132-pattern](https://github.com/Arjunmakkar/Leetcode/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/Arjunmakkar/Leetcode/tree/master/0704-binary-search) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Arjunmakkar/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -82,15 +83,18 @@ My leetcode DSA solutions
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Arjunmakkar/Leetcode/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/Arjunmakkar/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Arjunmakkar/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/Arjunmakkar/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Arjunmakkar/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Arjunmakkar/Leetcode/tree/master/0055-jump-game) |
+| [0435-non-overlapping-intervals](https://github.com/Arjunmakkar/Leetcode/tree/master/0435-non-overlapping-intervals) |
 ## Matrix
 |  |
 | ------- |
