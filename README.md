@@ -81,6 +81,7 @@ My leetcode DSA solutions
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arjunmakkar/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/Arjunmakkar/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/Arjunmakkar/Leetcode/tree/master/2235-add-two-integers) |
+| [2469-convert-the-temperature](https://github.com/Arjunmakkar/Leetcode/tree/master/2469-convert-the-temperature) |
 ## Binary Search
 |  |
 | ------- |
