@@ -79,6 +79,7 @@ My leetcode DSA solutions
 | [0263-ugly-number](https://github.com/Arjunmakkar/Leetcode/tree/master/0263-ugly-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Arjunmakkar/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arjunmakkar/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/Arjunmakkar/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Arjunmakkar/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/Arjunmakkar/Leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Arjunmakkar/Leetcode/tree/master/2413-smallest-even-multiple) |
@@ -224,4 +225,8 @@ My leetcode DSA solutions
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arjunmakkar/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1486-xor-operation-in-an-array](https://github.com/Arjunmakkar/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 <!---LeetCode Topics End-->
