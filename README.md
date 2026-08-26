@@ -77,6 +77,7 @@ My leetcode DSA solutions
 | [0202-happy-number](https://github.com/Arjunmakkar/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Arjunmakkar/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Arjunmakkar/Leetcode/tree/master/0263-ugly-number) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Arjunmakkar/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arjunmakkar/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/Arjunmakkar/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
