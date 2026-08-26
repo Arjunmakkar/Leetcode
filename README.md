@@ -37,6 +37,7 @@ My leetcode DSA solutions
 | ------- |
 | [0061-rotate-list](https://github.com/Arjunmakkar/Leetcode/tree/master/0061-rotate-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Arjunmakkar/Leetcode/tree/master/0092-reverse-linked-list-ii) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arjunmakkar/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +70,7 @@ My leetcode DSA solutions
 | [0202-happy-number](https://github.com/Arjunmakkar/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/Arjunmakkar/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Arjunmakkar/Leetcode/tree/master/0263-ugly-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arjunmakkar/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Binary Search
 |  |
 | ------- |
