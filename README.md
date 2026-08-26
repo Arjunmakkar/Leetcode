@@ -31,6 +31,7 @@ My leetcode DSA solutions
 | [0217-contains-duplicate](https://github.com/Arjunmakkar/Leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Arjunmakkar/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Arjunmakkar/Leetcode/tree/master/0383-ransom-note) |
+| [0771-jewels-and-stones](https://github.com/Arjunmakkar/Leetcode/tree/master/0771-jewels-and-stones) |
 ## Linked List
 |  |
 | ------- |
@@ -154,6 +155,7 @@ My leetcode DSA solutions
 | [0205-isomorphic-strings](https://github.com/Arjunmakkar/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Arjunmakkar/Leetcode/tree/master/0383-ransom-note) |
 | [0709-to-lower-case](https://github.com/Arjunmakkar/Leetcode/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/Arjunmakkar/Leetcode/tree/master/0771-jewels-and-stones) |
 ## Counting
 |  |
 | ------- |
