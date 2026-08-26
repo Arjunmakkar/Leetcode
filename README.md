@@ -23,6 +23,7 @@ My leetcode DSA solutions
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arjunmakkar/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Arjunmakkar/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Arjunmakkar/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1528-shuffle-string](https://github.com/Arjunmakkar/Leetcode/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/Arjunmakkar/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Arjunmakkar/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
@@ -168,6 +169,7 @@ My leetcode DSA solutions
 | [0383-ransom-note](https://github.com/Arjunmakkar/Leetcode/tree/master/0383-ransom-note) |
 | [0709-to-lower-case](https://github.com/Arjunmakkar/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Arjunmakkar/Leetcode/tree/master/0771-jewels-and-stones) |
+| [1528-shuffle-string](https://github.com/Arjunmakkar/Leetcode/tree/master/1528-shuffle-string) |
 ## Counting
 |  |
 | ------- |
