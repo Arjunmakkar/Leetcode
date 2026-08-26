@@ -20,6 +20,7 @@ My leetcode DSA solutions
 | [0456-132-pattern](https://github.com/Arjunmakkar/Leetcode/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/Arjunmakkar/Leetcode/tree/master/0704-binary-search) |
 | [1094-car-pooling](https://github.com/Arjunmakkar/Leetcode/tree/master/1094-car-pooling) |
+| [1480-running-sum-of-1d-array](https://github.com/Arjunmakkar/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Arjunmakkar/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Arjunmakkar/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
@@ -152,6 +153,7 @@ My leetcode DSA solutions
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/Arjunmakkar/Leetcode/tree/master/1094-car-pooling) |
+| [1480-running-sum-of-1d-array](https://github.com/Arjunmakkar/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## String
 |  |
 | ------- |
