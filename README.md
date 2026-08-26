@@ -80,6 +80,7 @@ My leetcode DSA solutions
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Arjunmakkar/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arjunmakkar/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/Arjunmakkar/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [2235-add-two-integers](https://github.com/Arjunmakkar/Leetcode/tree/master/2235-add-two-integers) |
 ## Binary Search
 |  |
 | ------- |
