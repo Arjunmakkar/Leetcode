@@ -173,6 +173,7 @@ My leetcode DSA solutions
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arjunmakkar/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Arjunmakkar/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Arjunmakkar/Leetcode/tree/master/0383-ransom-note) |
+| [0520-detect-capital](https://github.com/Arjunmakkar/Leetcode/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Arjunmakkar/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Arjunmakkar/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Arjunmakkar/Leetcode/tree/master/1108-defanging-an-ip-address) |
