@@ -81,6 +81,7 @@ My leetcode DSA solutions
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arjunmakkar/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/Arjunmakkar/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/Arjunmakkar/Leetcode/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/Arjunmakkar/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Arjunmakkar/Leetcode/tree/master/2469-convert-the-temperature) |
 ## Binary Search
 |  |
@@ -218,6 +219,7 @@ My leetcode DSA solutions
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Arjunmakkar/Leetcode/tree/master/0258-add-digits) |
+| [2413-smallest-even-multiple](https://github.com/Arjunmakkar/Leetcode/tree/master/2413-smallest-even-multiple) |
 ## Counting Sort
 |  |
 | ------- |
