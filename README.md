@@ -14,6 +14,7 @@ My leetcode DSA solutions
 | [0135-candy](https://github.com/Arjunmakkar/Leetcode/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arjunmakkar/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/Arjunmakkar/Leetcode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Arjunmakkar/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Arjunmakkar/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0456-132-pattern](https://github.com/Arjunmakkar/Leetcode/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/Arjunmakkar/Leetcode/tree/master/0704-binary-search) |
@@ -25,6 +26,7 @@ My leetcode DSA solutions
 | [0001-two-sum](https://github.com/Arjunmakkar/Leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Arjunmakkar/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Arjunmakkar/Leetcode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Arjunmakkar/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Arjunmakkar/Leetcode/tree/master/0383-ransom-note) |
 ## Linked List
 |  |
@@ -95,6 +97,7 @@ My leetcode DSA solutions
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Arjunmakkar/Leetcode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/Arjunmakkar/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Arjunmakkar/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [1094-car-pooling](https://github.com/Arjunmakkar/Leetcode/tree/master/1094-car-pooling) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Arjunmakkar/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -131,6 +134,7 @@ My leetcode DSA solutions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Arjunmakkar/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1094-car-pooling](https://github.com/Arjunmakkar/Leetcode/tree/master/1094-car-pooling) |
 ## Prefix Sum
 |  |
@@ -143,5 +147,18 @@ My leetcode DSA solutions
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Arjunmakkar/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Arjunmakkar/Leetcode/tree/master/0383-ransom-note) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Arjunmakkar/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Arjunmakkar/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Arjunmakkar/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
