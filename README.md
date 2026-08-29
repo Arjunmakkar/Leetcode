@@ -15,6 +15,7 @@ My leetcode DSA solutions
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arjunmakkar/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/Arjunmakkar/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arjunmakkar/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Arjunmakkar/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Arjunmakkar/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Arjunmakkar/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0456-132-pattern](https://github.com/Arjunmakkar/Leetcode/tree/master/0456-132-pattern) |
@@ -34,6 +35,7 @@ My leetcode DSA solutions
 | [0202-happy-number](https://github.com/Arjunmakkar/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Arjunmakkar/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Arjunmakkar/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Arjunmakkar/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Arjunmakkar/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Arjunmakkar/Leetcode/tree/master/0383-ransom-note) |
 | [0771-jewels-and-stones](https://github.com/Arjunmakkar/Leetcode/tree/master/0771-jewels-and-stones) |
@@ -252,4 +254,8 @@ My leetcode DSA solutions
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Arjunmakkar/Leetcode/tree/master/0292-nim-game) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Arjunmakkar/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
