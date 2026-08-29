@@ -264,4 +264,8 @@ My leetcode DSA solutions
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Arjunmakkar/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Arjunmakkar/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
