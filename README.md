@@ -86,6 +86,7 @@ My leetcode DSA solutions
 | [0263-ugly-number](https://github.com/Arjunmakkar/Leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Arjunmakkar/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Arjunmakkar/Leetcode/tree/master/0326-power-of-three) |
+| [0371-sum-of-two-integers](https://github.com/Arjunmakkar/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Arjunmakkar/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arjunmakkar/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/Arjunmakkar/Leetcode/tree/master/1486-xor-operation-in-an-array) |
@@ -241,6 +242,7 @@ My leetcode DSA solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/Arjunmakkar/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1486-xor-operation-in-an-array](https://github.com/Arjunmakkar/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Brainteaser
 |  |
