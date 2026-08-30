@@ -32,6 +32,7 @@ My leetcode DSA solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arjunmakkar/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Arjunmakkar/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Arjunmakkar/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Arjunmakkar/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Arjunmakkar/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -78,6 +79,7 @@ My leetcode DSA solutions
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Arjunmakkar/Leetcode/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arjunmakkar/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Arjunmakkar/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Arjunmakkar/Leetcode/tree/master/0202-happy-number) |
@@ -181,6 +183,7 @@ My leetcode DSA solutions
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Arjunmakkar/Leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arjunmakkar/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Arjunmakkar/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Arjunmakkar/Leetcode/tree/master/0383-ransom-note) |
