@@ -85,6 +85,7 @@ My leetcode DSA solutions
 | [0258-add-digits](https://github.com/Arjunmakkar/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Arjunmakkar/Leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Arjunmakkar/Leetcode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/Arjunmakkar/Leetcode/tree/master/0326-power-of-three) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Arjunmakkar/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arjunmakkar/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/Arjunmakkar/Leetcode/tree/master/1486-xor-operation-in-an-array) |
@@ -275,4 +276,8 @@ My leetcode DSA solutions
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/Arjunmakkar/Leetcode/tree/master/0223-rectangle-area) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Arjunmakkar/Leetcode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
