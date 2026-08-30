@@ -81,6 +81,7 @@ My leetcode DSA solutions
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arjunmakkar/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Arjunmakkar/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Arjunmakkar/Leetcode/tree/master/0202-happy-number) |
+| [0223-rectangle-area](https://github.com/Arjunmakkar/Leetcode/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/Arjunmakkar/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Arjunmakkar/Leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Arjunmakkar/Leetcode/tree/master/0292-nim-game) |
@@ -270,4 +271,8 @@ My leetcode DSA solutions
 | [0181-employees-earning-more-than-their-managers](https://github.com/Arjunmakkar/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Arjunmakkar/Leetcode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Arjunmakkar/Leetcode/tree/master/0183-customers-who-never-order) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/Arjunmakkar/Leetcode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
