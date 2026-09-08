@@ -29,6 +29,7 @@ My leetcode DSA solutions
 | [1528-shuffle-string](https://github.com/Arjunmakkar/Leetcode/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/Arjunmakkar/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Arjunmakkar/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Arjunmakkar/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +107,7 @@ My leetcode DSA solutions
 | [2413-smallest-even-multiple](https://github.com/Arjunmakkar/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Arjunmakkar/Leetcode/tree/master/2469-convert-the-temperature) |
 | [3870-count-commas-in-range](https://github.com/Arjunmakkar/Leetcode/tree/master/3870-count-commas-in-range) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Arjunmakkar/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Binary Search
 |  |
 | ------- |
