@@ -17,6 +17,7 @@ My leetcode DSA solutions
 | [0217-contains-duplicate](https://github.com/Arjunmakkar/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arjunmakkar/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Arjunmakkar/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Arjunmakkar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Arjunmakkar/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Arjunmakkar/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0456-132-pattern](https://github.com/Arjunmakkar/Leetcode/tree/master/0456-132-pattern) |
@@ -40,6 +41,7 @@ My leetcode DSA solutions
 | [0217-contains-duplicate](https://github.com/Arjunmakkar/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arjunmakkar/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Arjunmakkar/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Arjunmakkar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Arjunmakkar/Leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Arjunmakkar/Leetcode/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Arjunmakkar/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -63,6 +65,7 @@ My leetcode DSA solutions
 | [0142-linked-list-cycle-ii](https://github.com/Arjunmakkar/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Arjunmakkar/Leetcode/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/Arjunmakkar/Leetcode/tree/master/0202-happy-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Arjunmakkar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Arjunmakkar/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Stack
 |  |
@@ -106,6 +109,7 @@ My leetcode DSA solutions
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Arjunmakkar/Leetcode/tree/master/0035-search-insert-position) |
+| [0349-intersection-of-two-arrays](https://github.com/Arjunmakkar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/Arjunmakkar/Leetcode/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/Arjunmakkar/Leetcode/tree/master/0704-binary-search) |
 ## Monotonic Stack
@@ -141,6 +145,7 @@ My leetcode DSA solutions
 | [0169-majority-element](https://github.com/Arjunmakkar/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arjunmakkar/Leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Arjunmakkar/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Arjunmakkar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Arjunmakkar/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Arjunmakkar/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1094-car-pooling](https://github.com/Arjunmakkar/Leetcode/tree/master/1094-car-pooling) |
