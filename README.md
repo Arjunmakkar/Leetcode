@@ -53,6 +53,7 @@ My leetcode DSA solutions
 | [0092-reverse-linked-list-ii](https://github.com/Arjunmakkar/Leetcode/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Arjunmakkar/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Arjunmakkar/Leetcode/tree/master/0148-sort-list) |
+| [0328-odd-even-linked-list](https://github.com/Arjunmakkar/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arjunmakkar/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
