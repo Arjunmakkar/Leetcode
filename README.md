@@ -178,6 +178,7 @@ My leetcode DSA solutions
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Arjunmakkar/Leetcode/tree/master/0112-path-sum) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Arjunmakkar/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -190,6 +191,7 @@ My leetcode DSA solutions
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/Arjunmakkar/Leetcode/tree/master/0112-path-sum) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Arjunmakkar/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -312,4 +314,8 @@ My leetcode DSA solutions
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Arjunmakkar/Leetcode/tree/master/0148-sort-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Arjunmakkar/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
