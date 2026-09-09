@@ -67,6 +67,7 @@ My leetcode DSA solutions
 | [0148-sort-list](https://github.com/Arjunmakkar/Leetcode/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/Arjunmakkar/Leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Arjunmakkar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/Arjunmakkar/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Arjunmakkar/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Stack
 |  |
@@ -99,6 +100,7 @@ My leetcode DSA solutions
 | [0292-nim-game](https://github.com/Arjunmakkar/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Arjunmakkar/Leetcode/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/Arjunmakkar/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0633-sum-of-square-numbers](https://github.com/Arjunmakkar/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Arjunmakkar/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Arjunmakkar/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/Arjunmakkar/Leetcode/tree/master/1486-xor-operation-in-an-array) |
@@ -115,6 +117,7 @@ My leetcode DSA solutions
 | [0035-search-insert-position](https://github.com/Arjunmakkar/Leetcode/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/Arjunmakkar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0456-132-pattern](https://github.com/Arjunmakkar/Leetcode/tree/master/0456-132-pattern) |
+| [0633-sum-of-square-numbers](https://github.com/Arjunmakkar/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Arjunmakkar/Leetcode/tree/master/0704-binary-search) |
 ## Monotonic Stack
 |  |
