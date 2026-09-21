@@ -8,6 +8,7 @@ My leetcode DSA solutions
 | ------- |
 | [0001-two-sum](https://github.com/Arjunmakkar/Leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Arjunmakkar/Leetcode/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/Arjunmakkar/Leetcode/tree/master/0039-combination-sum) |
 | [0055-jump-game](https://github.com/Arjunmakkar/Leetcode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Arjunmakkar/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Arjunmakkar/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -320,4 +321,8 @@ My leetcode DSA solutions
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Arjunmakkar/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Arjunmakkar/Leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
