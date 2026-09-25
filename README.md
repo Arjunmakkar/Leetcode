@@ -105,6 +105,7 @@ My leetcode DSA solutions
 | [0292-nim-game](https://github.com/Arjunmakkar/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Arjunmakkar/Leetcode/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/Arjunmakkar/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/Arjunmakkar/Leetcode/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/Arjunmakkar/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/Arjunmakkar/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Arjunmakkar/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -180,6 +181,7 @@ My leetcode DSA solutions
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/Arjunmakkar/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/Arjunmakkar/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Arjunmakkar/Leetcode/tree/master/0412-fizz-buzz) |
 | [1094-car-pooling](https://github.com/Arjunmakkar/Leetcode/tree/master/1094-car-pooling) |
 ## Tree
 |  |
@@ -217,6 +219,7 @@ My leetcode DSA solutions
 | [0205-isomorphic-strings](https://github.com/Arjunmakkar/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Arjunmakkar/Leetcode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Arjunmakkar/Leetcode/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/Arjunmakkar/Leetcode/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/Arjunmakkar/Leetcode/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Arjunmakkar/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Arjunmakkar/Leetcode/tree/master/0771-jewels-and-stones) |
