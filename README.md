@@ -26,6 +26,7 @@ My leetcode DSA solutions
 | [0442-find-all-duplicates-in-an-array](https://github.com/Arjunmakkar/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0456-132-pattern](https://github.com/Arjunmakkar/Leetcode/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/Arjunmakkar/Leetcode/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/Arjunmakkar/Leetcode/tree/master/0912-sort-an-array) |
 | [1094-car-pooling](https://github.com/Arjunmakkar/Leetcode/tree/master/1094-car-pooling) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arjunmakkar/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1480-running-sum-of-1d-array](https://github.com/Arjunmakkar/Leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -163,6 +164,7 @@ My leetcode DSA solutions
 | [0349-intersection-of-two-arrays](https://github.com/Arjunmakkar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Arjunmakkar/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Arjunmakkar/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0912-sort-an-array](https://github.com/Arjunmakkar/Leetcode/tree/master/0912-sort-an-array) |
 | [1094-car-pooling](https://github.com/Arjunmakkar/Leetcode/tree/master/1094-car-pooling) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arjunmakkar/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Arjunmakkar/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -205,6 +207,7 @@ My leetcode DSA solutions
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Arjunmakkar/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Arjunmakkar/Leetcode/tree/master/0912-sort-an-array) |
 | [1094-car-pooling](https://github.com/Arjunmakkar/Leetcode/tree/master/1094-car-pooling) |
 ## Prefix Sum
 |  |
@@ -238,11 +241,13 @@ My leetcode DSA solutions
 | [0148-sort-list](https://github.com/Arjunmakkar/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Arjunmakkar/Leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Arjunmakkar/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Arjunmakkar/Leetcode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Arjunmakkar/Leetcode/tree/master/0164-maximum-gap) |
 | [0347-top-k-frequent-elements](https://github.com/Arjunmakkar/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/Arjunmakkar/Leetcode/tree/master/0912-sort-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -275,6 +280,7 @@ My leetcode DSA solutions
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/Arjunmakkar/Leetcode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arjunmakkar/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
 |  |
@@ -326,6 +332,7 @@ My leetcode DSA solutions
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Arjunmakkar/Leetcode/tree/master/0148-sort-list) |
+| [0912-sort-an-array](https://github.com/Arjunmakkar/Leetcode/tree/master/0912-sort-an-array) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -339,6 +346,7 @@ My leetcode DSA solutions
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Arjunmakkar/Leetcode/tree/master/0164-maximum-gap) |
+| [0912-sort-an-array](https://github.com/Arjunmakkar/Leetcode/tree/master/0912-sort-an-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
