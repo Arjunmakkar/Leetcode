@@ -228,6 +228,7 @@ My leetcode DSA solutions
 | [0520-detect-capital](https://github.com/Arjunmakkar/Leetcode/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/Arjunmakkar/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Arjunmakkar/Leetcode/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/Arjunmakkar/Leetcode/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Arjunmakkar/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/Arjunmakkar/Leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/Arjunmakkar/Leetcode/tree/master/1528-shuffle-string) |
@@ -263,6 +264,7 @@ My leetcode DSA solutions
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arjunmakkar/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Arjunmakkar/Leetcode/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
