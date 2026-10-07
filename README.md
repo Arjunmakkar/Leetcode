@@ -9,6 +9,7 @@ My leetcode DSA solutions
 | [0001-two-sum](https://github.com/Arjunmakkar/Leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Arjunmakkar/Leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Arjunmakkar/Leetcode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Arjunmakkar/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Arjunmakkar/Leetcode/tree/master/0039-combination-sum) |
 | [0055-jump-game](https://github.com/Arjunmakkar/Leetcode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Arjunmakkar/Leetcode/tree/master/0059-spiral-matrix-ii) |
@@ -40,6 +41,7 @@ My leetcode DSA solutions
 | ------- |
 | [0001-two-sum](https://github.com/Arjunmakkar/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Arjunmakkar/Leetcode/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/Arjunmakkar/Leetcode/tree/master/0037-sudoku-solver) |
 | [0142-linked-list-cycle-ii](https://github.com/Arjunmakkar/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Arjunmakkar/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Arjunmakkar/Leetcode/tree/master/0202-happy-number) |
@@ -178,6 +180,7 @@ My leetcode DSA solutions
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Arjunmakkar/Leetcode/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/Arjunmakkar/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/Arjunmakkar/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Simulation
@@ -345,6 +348,7 @@ My leetcode DSA solutions
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Arjunmakkar/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Arjunmakkar/Leetcode/tree/master/0039-combination-sum) |
 | [0216-combination-sum-iii](https://github.com/Arjunmakkar/Leetcode/tree/master/0216-combination-sum-iii) |
 ## Radix Sort
@@ -360,4 +364,12 @@ My leetcode DSA solutions
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Arjunmakkar/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Arjunmakkar/Leetcode/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Arjunmakkar/Leetcode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
