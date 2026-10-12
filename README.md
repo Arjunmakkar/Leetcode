@@ -18,6 +18,7 @@ My leetcode DSA solutions
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arjunmakkar/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0164-maximum-gap](https://github.com/Arjunmakkar/Leetcode/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Arjunmakkar/Leetcode/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/Arjunmakkar/Leetcode/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/Arjunmakkar/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Arjunmakkar/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Arjunmakkar/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -177,6 +178,7 @@ My leetcode DSA solutions
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Arjunmakkar/Leetcode/tree/master/0055-jump-game) |
+| [0198-house-robber](https://github.com/Arjunmakkar/Leetcode/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/Arjunmakkar/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Arjunmakkar/Leetcode/tree/master/0509-fibonacci-number) |
 ## Matrix
