@@ -79,6 +79,7 @@ My leetcode DSA solutions
 | [0345-reverse-vowels-of-a-string](https://github.com/Arjunmakkar/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Arjunmakkar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/Arjunmakkar/Leetcode/tree/master/0633-sum-of-square-numbers) |
+| [2396-strictly-palindromic-number](https://github.com/Arjunmakkar/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Arjunmakkar/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Stack
 |  |
@@ -121,6 +122,7 @@ My leetcode DSA solutions
 | [1486-xor-operation-in-an-array](https://github.com/Arjunmakkar/Leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Arjunmakkar/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/Arjunmakkar/Leetcode/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/Arjunmakkar/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/Arjunmakkar/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Arjunmakkar/Leetcode/tree/master/2469-convert-the-temperature) |
 | [3870-count-commas-in-range](https://github.com/Arjunmakkar/Leetcode/tree/master/3870-count-commas-in-range) |
@@ -309,6 +311,7 @@ My leetcode DSA solutions
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Arjunmakkar/Leetcode/tree/master/0292-nim-game) |
+| [2396-strictly-palindromic-number](https://github.com/Arjunmakkar/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Minimax
 |  |
 | ------- |
