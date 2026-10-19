@@ -29,6 +29,7 @@ My leetcode DSA solutions
 | [0442-find-all-duplicates-in-an-array](https://github.com/Arjunmakkar/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Arjunmakkar/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0456-132-pattern](https://github.com/Arjunmakkar/Leetcode/tree/master/0456-132-pattern) |
+| [0561-array-partition](https://github.com/Arjunmakkar/Leetcode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/Arjunmakkar/Leetcode/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Arjunmakkar/Leetcode/tree/master/0912-sort-an-array) |
 | [1094-car-pooling](https://github.com/Arjunmakkar/Leetcode/tree/master/1094-car-pooling) |
@@ -165,6 +166,7 @@ My leetcode DSA solutions
 | [0135-candy](https://github.com/Arjunmakkar/Leetcode/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/Arjunmakkar/Leetcode/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/Arjunmakkar/Leetcode/tree/master/0435-non-overlapping-intervals) |
+| [0561-array-partition](https://github.com/Arjunmakkar/Leetcode/tree/master/0561-array-partition) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Arjunmakkar/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Arjunmakkar/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
@@ -178,6 +180,7 @@ My leetcode DSA solutions
 | [0349-intersection-of-two-arrays](https://github.com/Arjunmakkar/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Arjunmakkar/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Arjunmakkar/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0561-array-partition](https://github.com/Arjunmakkar/Leetcode/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Arjunmakkar/Leetcode/tree/master/0912-sort-an-array) |
 | [1094-car-pooling](https://github.com/Arjunmakkar/Leetcode/tree/master/1094-car-pooling) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arjunmakkar/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -303,6 +306,7 @@ My leetcode DSA solutions
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/Arjunmakkar/Leetcode/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/Arjunmakkar/Leetcode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arjunmakkar/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Bit Manipulation
