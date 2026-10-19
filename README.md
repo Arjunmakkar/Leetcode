@@ -114,6 +114,7 @@ My leetcode DSA solutions
 | [0326-power-of-three](https://github.com/Arjunmakkar/Leetcode/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/Arjunmakkar/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Arjunmakkar/Leetcode/tree/master/0412-fizz-buzz) |
+| [0492-construct-the-rectangle](https://github.com/Arjunmakkar/Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/Arjunmakkar/Leetcode/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/Arjunmakkar/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/Arjunmakkar/Leetcode/tree/master/0836-rectangle-overlap) |
