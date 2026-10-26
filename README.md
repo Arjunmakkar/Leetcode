@@ -7,6 +7,7 @@ My leetcode DSA solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Arjunmakkar/Leetcode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Arjunmakkar/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Arjunmakkar/Leetcode/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Arjunmakkar/Leetcode/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/Arjunmakkar/Leetcode/tree/master/0037-sudoku-solver) |
@@ -74,6 +75,7 @@ My leetcode DSA solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Arjunmakkar/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arjunmakkar/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Arjunmakkar/Leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Arjunmakkar/Leetcode/tree/master/0061-rotate-list) |
