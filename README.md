@@ -15,6 +15,7 @@ My leetcode DSA solutions
 | [0055-jump-game](https://github.com/Arjunmakkar/Leetcode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Arjunmakkar/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Arjunmakkar/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/Arjunmakkar/Leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Arjunmakkar/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Arjunmakkar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0135-candy](https://github.com/Arjunmakkar/Leetcode/tree/master/0135-candy) |
@@ -80,6 +81,7 @@ My leetcode DSA solutions
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arjunmakkar/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Arjunmakkar/Leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Arjunmakkar/Leetcode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Arjunmakkar/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Arjunmakkar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Arjunmakkar/Leetcode/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Arjunmakkar/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -181,6 +183,7 @@ My leetcode DSA solutions
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Arjunmakkar/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Arjunmakkar/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Arjunmakkar/Leetcode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Arjunmakkar/Leetcode/tree/master/0164-maximum-gap) |
@@ -413,4 +416,12 @@ My leetcode DSA solutions
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Arjunmakkar/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Arjunmakkar/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Arjunmakkar/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
