@@ -79,6 +79,7 @@ My leetcode DSA solutions
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arjunmakkar/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Arjunmakkar/Leetcode/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Arjunmakkar/Leetcode/tree/master/0061-rotate-list) |
+| [0125-valid-palindrome](https://github.com/Arjunmakkar/Leetcode/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/Arjunmakkar/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Arjunmakkar/Leetcode/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arjunmakkar/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -247,6 +248,7 @@ My leetcode DSA solutions
 | ------- |
 | [0013-roman-to-integer](https://github.com/Arjunmakkar/Leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arjunmakkar/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0125-valid-palindrome](https://github.com/Arjunmakkar/Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Arjunmakkar/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Arjunmakkar/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arjunmakkar/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
