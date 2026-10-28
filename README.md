@@ -104,6 +104,7 @@ My leetcode DSA solutions
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Arjunmakkar/Leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Arjunmakkar/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arjunmakkar/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Arjunmakkar/Leetcode/tree/master/0225-implement-stack-using-queues) |
@@ -264,6 +265,7 @@ My leetcode DSA solutions
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Arjunmakkar/Leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Arjunmakkar/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Arjunmakkar/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Arjunmakkar/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Arjunmakkar/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -412,6 +414,7 @@ My leetcode DSA solutions
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Arjunmakkar/Leetcode/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Arjunmakkar/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Algorithm X
 |  |
