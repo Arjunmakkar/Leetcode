@@ -25,6 +25,7 @@ My leetcode DSA solutions
 | [0164-maximum-gap](https://github.com/Arjunmakkar/Leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arjunmakkar/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Arjunmakkar/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Arjunmakkar/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Arjunmakkar/Leetcode/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/Arjunmakkar/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Arjunmakkar/Leetcode/tree/master/0217-contains-duplicate) |
@@ -90,6 +91,7 @@ My leetcode DSA solutions
 | [0148-sort-list](https://github.com/Arjunmakkar/Leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Arjunmakkar/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arjunmakkar/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Arjunmakkar/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Arjunmakkar/Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Arjunmakkar/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Arjunmakkar/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -122,6 +124,7 @@ My leetcode DSA solutions
 | [0013-roman-to-integer](https://github.com/Arjunmakkar/Leetcode/tree/master/0013-roman-to-integer) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arjunmakkar/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Arjunmakkar/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/Arjunmakkar/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Arjunmakkar/Leetcode/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/Arjunmakkar/Leetcode/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/Arjunmakkar/Leetcode/tree/master/0258-add-digits) |
