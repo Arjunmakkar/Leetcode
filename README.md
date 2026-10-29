@@ -40,6 +40,7 @@ My leetcode DSA solutions
 | [0560-subarray-sum-equals-k](https://github.com/Arjunmakkar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Arjunmakkar/Leetcode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/Arjunmakkar/Leetcode/tree/master/0704-binary-search) |
+| [0746-min-cost-climbing-stairs](https://github.com/Arjunmakkar/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/Arjunmakkar/Leetcode/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/Arjunmakkar/Leetcode/tree/master/0912-sort-an-array) |
 | [1094-car-pooling](https://github.com/Arjunmakkar/Leetcode/tree/master/1094-car-pooling) |
@@ -228,6 +229,7 @@ My leetcode DSA solutions
 | [0198-house-robber](https://github.com/Arjunmakkar/Leetcode/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/Arjunmakkar/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Arjunmakkar/Leetcode/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Arjunmakkar/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Matrix
 |  |
 | ------- |
