@@ -40,6 +40,7 @@ My leetcode DSA solutions
 | [0560-subarray-sum-equals-k](https://github.com/Arjunmakkar/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Arjunmakkar/Leetcode/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/Arjunmakkar/Leetcode/tree/master/0704-binary-search) |
+| [0860-lemonade-change](https://github.com/Arjunmakkar/Leetcode/tree/master/0860-lemonade-change) |
 | [0912-sort-an-array](https://github.com/Arjunmakkar/Leetcode/tree/master/0912-sort-an-array) |
 | [1094-car-pooling](https://github.com/Arjunmakkar/Leetcode/tree/master/1094-car-pooling) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Arjunmakkar/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -193,6 +194,7 @@ My leetcode DSA solutions
 | [0435-non-overlapping-intervals](https://github.com/Arjunmakkar/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Arjunmakkar/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Arjunmakkar/Leetcode/tree/master/0561-array-partition) |
+| [0860-lemonade-change](https://github.com/Arjunmakkar/Leetcode/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Arjunmakkar/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Arjunmakkar/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Sorting
