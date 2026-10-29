@@ -110,12 +110,14 @@ My leetcode DSA solutions
 | [0225-implement-stack-using-queues](https://github.com/Arjunmakkar/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Arjunmakkar/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0456-132-pattern](https://github.com/Arjunmakkar/Leetcode/tree/master/0456-132-pattern) |
+| [0901-online-stock-span](https://github.com/Arjunmakkar/Leetcode/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Arjunmakkar/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Design
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Arjunmakkar/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Arjunmakkar/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/Arjunmakkar/Leetcode/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -166,6 +168,7 @@ My leetcode DSA solutions
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Arjunmakkar/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0456-132-pattern](https://github.com/Arjunmakkar/Leetcode/tree/master/0456-132-pattern) |
+| [0901-online-stock-span](https://github.com/Arjunmakkar/Leetcode/tree/master/0901-online-stock-span) |
 ## Ordered Set
 |  |
 | ------- |
@@ -440,4 +443,8 @@ My leetcode DSA solutions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Arjunmakkar/Leetcode/tree/master/0075-sort-colors) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Arjunmakkar/Leetcode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
