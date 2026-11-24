@@ -52,6 +52,7 @@ My leetcode DSA solutions
 | [1528-shuffle-string](https://github.com/Arjunmakkar/Leetcode/tree/master/1528-shuffle-string) |
 | [1672-richest-customer-wealth](https://github.com/Arjunmakkar/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Arjunmakkar/Leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Arjunmakkar/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Arjunmakkar/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
@@ -160,6 +161,7 @@ My leetcode DSA solutions
 | [2396-strictly-palindromic-number](https://github.com/Arjunmakkar/Leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/Arjunmakkar/Leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Arjunmakkar/Leetcode/tree/master/2469-convert-the-temperature) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Arjunmakkar/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3870-count-commas-in-range](https://github.com/Arjunmakkar/Leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Arjunmakkar/Leetcode/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Arjunmakkar/Leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -369,6 +371,7 @@ My leetcode DSA solutions
 | ------- |
 | [0258-add-digits](https://github.com/Arjunmakkar/Leetcode/tree/master/0258-add-digits) |
 | [2413-smallest-even-multiple](https://github.com/Arjunmakkar/Leetcode/tree/master/2413-smallest-even-multiple) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Arjunmakkar/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Counting Sort
 |  |
 | ------- |
@@ -405,6 +408,7 @@ My leetcode DSA solutions
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Arjunmakkar/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Arjunmakkar/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Database
 |  |
 | ------- |
@@ -483,4 +487,8 @@ My leetcode DSA solutions
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Arjunmakkar/Leetcode/tree/master/0901-online-stock-span) |
+## Enumeration
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Arjunmakkar/Leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
