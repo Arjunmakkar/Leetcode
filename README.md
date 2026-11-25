@@ -269,6 +269,7 @@ My leetcode DSA solutions
 | [0102-binary-tree-level-order-traversal](https://github.com/Arjunmakkar/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Arjunmakkar/Leetcode/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Arjunmakkar/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Arjunmakkar/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Arjunmakkar/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Arjunmakkar/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Arjunmakkar/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -279,6 +280,7 @@ My leetcode DSA solutions
 | [0100-same-tree](https://github.com/Arjunmakkar/Leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Arjunmakkar/Leetcode/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Arjunmakkar/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Arjunmakkar/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -293,6 +295,7 @@ My leetcode DSA solutions
 | [0102-binary-tree-level-order-traversal](https://github.com/Arjunmakkar/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Arjunmakkar/Leetcode/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Arjunmakkar/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Arjunmakkar/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Arjunmakkar/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Arjunmakkar/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Arjunmakkar/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -445,6 +448,7 @@ My leetcode DSA solutions
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Arjunmakkar/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Arjunmakkar/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Arjunmakkar/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Arjunmakkar/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
