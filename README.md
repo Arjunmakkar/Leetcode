@@ -15,6 +15,7 @@ My leetcode DSA solutions
 | [0039-combination-sum](https://github.com/Arjunmakkar/Leetcode/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/Arjunmakkar/Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Arjunmakkar/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Arjunmakkar/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Arjunmakkar/Leetcode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Arjunmakkar/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Arjunmakkar/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -246,6 +247,7 @@ My leetcode DSA solutions
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Arjunmakkar/Leetcode/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/Arjunmakkar/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Arjunmakkar/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Arjunmakkar/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Arjunmakkar/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -253,6 +255,7 @@ My leetcode DSA solutions
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Arjunmakkar/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Arjunmakkar/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0258-add-digits](https://github.com/Arjunmakkar/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Arjunmakkar/Leetcode/tree/master/0412-fizz-buzz) |
