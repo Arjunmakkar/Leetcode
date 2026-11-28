@@ -118,6 +118,7 @@ My leetcode DSA solutions
 | [0020-valid-parentheses](https://github.com/Arjunmakkar/Leetcode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Arjunmakkar/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Arjunmakkar/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Arjunmakkar/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Arjunmakkar/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Arjunmakkar/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Arjunmakkar/Leetcode/tree/master/0225-implement-stack-using-queues) |
@@ -268,6 +269,7 @@ My leetcode DSA solutions
 | [0100-same-tree](https://github.com/Arjunmakkar/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Arjunmakkar/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Arjunmakkar/Leetcode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Arjunmakkar/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Arjunmakkar/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Arjunmakkar/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Arjunmakkar/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -279,6 +281,7 @@ My leetcode DSA solutions
 | [0094-binary-tree-inorder-traversal](https://github.com/Arjunmakkar/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Arjunmakkar/Leetcode/tree/master/0100-same-tree) |
 | [0112-path-sum](https://github.com/Arjunmakkar/Leetcode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Arjunmakkar/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Arjunmakkar/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Arjunmakkar/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Breadth-First Search
@@ -294,6 +297,7 @@ My leetcode DSA solutions
 | [0100-same-tree](https://github.com/Arjunmakkar/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Arjunmakkar/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/Arjunmakkar/Leetcode/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Arjunmakkar/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Arjunmakkar/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Arjunmakkar/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Arjunmakkar/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
